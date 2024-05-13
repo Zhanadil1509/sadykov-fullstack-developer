@@ -23,7 +23,7 @@ export default function Footer() {
             /
           </span>
           <p className=" text-sm text-slate-300 ">
-            © {new Date().getFullYear()} "Zhanadil"
+            © {new Date().getFullYear()} Zhanadil
           </p>
         </div>
         <nav className="navigation" aria-label="Footer Navigation">
